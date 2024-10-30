@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>079beec7-5e01-4759-a62d-40132f3bcfe9</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>4fec772f-1cbc-4a82-b553-7486b64bab1a</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/NaamEnTelefoon</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>4fec772f-1cbc-4a82-b553-7486b64bab1a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>naam</value>
+      <variableId>f459c3dd-b749-4ac9-bfd1-82da23fb855a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>4fec772f-1cbc-4a82-b553-7486b64bab1a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>tel</value>
+      <variableId>6e87dad7-623e-4063-bee5-f52805145b62</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f459c3dd-b749-4ac9-bfd1-82da23fb855a</id>
+      <masked>false</masked>
+      <name>naam</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6e87dad7-623e-4063-bee5-f52805145b62</id>
+      <masked>false</masked>
+      <name>tel</name>
+   </variable>
+</TestCaseEntity>

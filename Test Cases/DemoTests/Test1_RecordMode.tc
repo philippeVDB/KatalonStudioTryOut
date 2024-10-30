@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>this is a demo test case (by M2Q VDB)</description>
+   <name>Test1_RecordMode</name>
+   <tag>@M2Q</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e6b137ba-00c8-400a-9fde-3f14fed45ad9</testCaseGuid>
+</TestCaseEntity>

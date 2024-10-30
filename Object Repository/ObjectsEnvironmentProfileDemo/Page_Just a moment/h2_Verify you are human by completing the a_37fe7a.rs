@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Verify you are human by completing the a_37fe7a</name>
+   <tag></tag>
+   <elementGuidId>43e72f4d-50e1-4a93-90cc-d03775418f6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='MNeRr6']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#MNeRr6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Verify you are human by completing the action below.&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>5a0134a0-72ba-41c1-8c48-181b12d23bec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>MNeRr6</value>
+      <webElementGuid>39594ae1-ba18-4ccd-9938-9b84d80f7cc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h2 spacer-bottom</value>
+      <webElementGuid>d9e79d17-0d31-4f1d-9a21-34e15c8ed54c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Verify you are human by completing the action below.</value>
+      <webElementGuid>be1fcad5-b2ea-416f-9e53-e6559a5a6855</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MNeRr6&quot;)</value>
+      <webElementGuid>5d639e94-cbe9-485a-9407-c2b13b1c2d3d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='MNeRr6']</value>
+      <webElementGuid>91e6686f-cc58-4640-96ad-daed7f2b1b74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='admin-demo.nopcommerce.com'])[1]/following::h2[1]</value>
+      <webElementGuid>3f23675b-aa82-4a7b-86bf-883258ed2d05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='admin-demo.nopcommerce.com needs to review the security of your connection before proceeding.'])[1]/preceding::h2[1]</value>
+      <webElementGuid>339cc71f-4103-4555-9b6b-804f73501e16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verification successful'])[1]/preceding::h2[1]</value>
+      <webElementGuid>eecdd9b6-0cd6-4ac1-be14-e18cbaa0aaed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Verify you are human by completing the action below.']/parent::*</value>
+      <webElementGuid>a5d14c33-2629-47bf-830d-f71b3e52f73c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>7e2373c9-d388-42d6-bd52-969437591797</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'MNeRr6' and (text() = 'Verify you are human by completing the action below.' or . = 'Verify you are human by completing the action below.')]</value>
+      <webElementGuid>d2ee7c05-1e97-4148-b8dd-29a293f91f3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

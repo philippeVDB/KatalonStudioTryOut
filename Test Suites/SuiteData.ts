@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>SuiteData</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>0d989682-12fc-45ea-8553-9c8a6a71352c</testSuiteGuid>
+   <testCaseLink>
+      <guid>2b816467-8732-44db-a3eb-4172dc60d4ac</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>''</defaultValue>
+         <description></description>
+         <id>f459c3dd-b749-4ac9-bfd1-82da23fb855a</id>
+         <masked>false</masked>
+         <name>naam</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/DemoTests/DataDrivenDemo</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>3dcc0bfe-6bb7-46a9-8f72-bd0912ab3693</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/New Test Data DEMO</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>3dcc0bfe-6bb7-46a9-8f72-bd0912ab3693</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>naam</value>
+         <variableId>f459c3dd-b749-4ac9-bfd1-82da23fb855a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3dcc0bfe-6bb7-46a9-8f72-bd0912ab3693</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>tel</value>
+         <variableId>6e87dad7-623e-4063-bee5-f52805145b62</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
